@@ -1,5 +1,4 @@
-# AI-Multi-Language-Translator
-AI-powered multi-language translator with auto language detection, instant translation, MP3 audio output, translation history, and a modern dark UI built using Streamlit..
+---
 title: AI Translator
 sdk: streamlit
 app_file: app.py
@@ -72,4 +71,3 @@ A complete working AI-powered multilingual translator web application using Pyth
     ```
 2.  Open your browser to the URL provided (usually `http://localhost:8501`).
     *Note: The first time you run a translation or transcribe audio, the models (NLLB, Whisper) will be downloaded from Hugging Face which might take some time and disk space depending on your internet connection.*
-

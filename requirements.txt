@@ -1,0 +1,12 @@
+transformers
+torch
+openai-whisper
+gtts
+langdetect
+pydub
+numpy
+sentencepiece
+deep-translator
+imageio-ffmpeg
+huggingface_hub
+streamlit
